@@ -1,4 +1,4 @@
-![banner](./images/images/banner.png)
+<img width="1440" alt="banner1" src="https://github.com/user-attachments/assets/7fa406bc-4a02-4219-88a5-874ddd066ad2">
 
 # Hi 👋
 I'm Yekang Kim, an art & technology major at Chung-Ang University.
