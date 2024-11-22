@@ -12,7 +12,7 @@ I'm Yekang Kim, an art & technology major at Chung-Ang University.
 - Dislike: Insect, Running
 
 ## 📌 How to contact me
-[![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white)](mailto:kiming0810@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white)](mailto:kiming810@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/yekangkim0810/)
 
 ## 🍑 I'm currently learning...
