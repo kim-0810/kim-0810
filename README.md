@@ -1,4 +1,4 @@
-![banner](./images/banner.png)
+![banner](./images/images/banner.png)
 
 # Hi 👋
 I'm Yekang Kim, an art & technology major at Chung-Ang University.
