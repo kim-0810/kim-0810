@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Yekang Kim.</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kim-0810&label=Profile%20View&color=eca4a4&style=flat-square" alt="kim-0810" /> </p>
 
-이름: 김예강
-나이: 20
-성별: 여성
-MBTI: ENTP
-좋아하는것: 동물, 잠자기, 맛있는 음식, 디저트
-싫어하는것: 곤충, 뛰기
+- 이름: 김예강
+- 나이: 20
+- 성별: 여성
+- MBTI: ENTP
+- 좋아하는것: 동물, 잠자기, 맛있는 음식, 디저트
+- 싫어하는것: 곤충, 뛰기
 
 Name: Yekang Kim
 Age: 20
